@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="myXslt.xslt"?>
+<notes>
+  
+<infos>
+    <fullname >bouba bouba</fullname>
+    <address>test</address>
+    <birthdate>05.10.1994</birthdate>
+    <birthplace>Berlin</birthplace>
+    <matrikelnr>630330</matrikelnr>
+    <studiengang>Angewandte Informatik</studiengang>
+    <vertiefung>a</vertiefung>
+    <schwerpunkt>a</schwerpunkt>
+    <immDatum>11.09.2017</immDatum>
+    <exmDat></exmDat>
+    <fachsemester>4</fachsemester>
+    <stand>23/05/2019</stand>
+  </infos> 
+
+  <note>
+    <nr>1</nr>
+    <fachnr>733500</fachnr>
+    <sem>3</sem>
+    <bezeichnung>Netzwerkadministration</bezeichnung>
+    <cp>05.00</cp>
+    <art>P</art>
+    <Zeitraum1>WS18-2 </Zeitraum1>
+    <nt1>5,0</nt1>
+    <Zeitraum2>SS19-1</Zeitraum2>
+    <nt2>3,3</nt2>
+    <Zeitraum3>a</Zeitraum3>
+    <nt3>a</nt3>
+    <weitere>a</weitere>
+    <anerkannt>a</anerkannt>
+  </note>
+   <note>
+    <nr>2</nr>
+    <fachnr>733522</fachnr>
+    <sem>2</sem>
+    <bezeichnung>oop</bezeichnung>
+    <cp>05.00</cp>
+    <art>P</art>
+    <Zeitraum1>WS18-2 </Zeitraum1>
+    <nt1>1,0</nt1>
+    <Zeitraum2>SS19-1</Zeitraum2>
+    <nt2>a</nt2>
+    <Zeitraum3>WS19-1</Zeitraum3>
+    <nt3>a</nt3>
+    <weitere>a</weitere>
+    <anerkannt>a</anerkannt>
+  </note>
+  <note>
+    <nr>3</nr>
+    <fachnr>730022</fachnr>
+    <sem>3</sem>
+    <bezeichnung>Webtech-lab</bezeichnung>
+    <cp>05.00</cp>
+    <art>N</art>
+    <Zeitraum1>WS18-2 </Zeitraum1>
+    <nt1>--</nt1>
+    <Zeitraum2>SS19-1</Zeitraum2>
+    <nt2>TLN</nt2>
+    <Zeitraum3>WS19-1</Zeitraum3>
+    <nt3>a</nt3>
+    <weitere>a</weitere>
+    <anerkannt>a</anerkannt>
+  </note>
+    <note>
+    <nr>3</nr>
+    <fachnr>735522</fachnr>
+    <sem>4</sem>
+    <bezeichnung>Projekt Management</bezeichnung>
+    <cp>05.00</cp>
+    <art>N</art>
+    <Zeitraum1>WS18-2 </Zeitraum1>
+    <nt1>TLN</nt1>
+    <Zeitraum2>SS19-1</Zeitraum2>
+    <nt2>a</nt2>
+    <Zeitraum3>WS19-1</Zeitraum3>
+    <nt3>a</nt3>
+    <weitere>a</weitere>
+    <anerkannt>a</anerkannt>
+  </note>
+</notes>
